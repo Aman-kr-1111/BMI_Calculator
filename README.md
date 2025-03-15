@@ -32,3 +32,5 @@ To run this project locally, follow these steps:
    ```
 2. Open the `index.html` file in a browser.
 3. Enjoy calculating your BMI!
+
+---
