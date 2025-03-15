@@ -34,3 +34,13 @@ To run this project locally, follow these steps:
 3. Enjoy calculating your BMI!
 
 ---
+
+## ✨ Created By
+
+👨‍💻 **Aman Kumar**  
+🚀 Passionate Java Full Stack Developer 💡  
+📧 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)  
+
+---
+
+🔗 **Happy Coding! 🚀**
