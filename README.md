@@ -52,13 +52,5 @@ To run this project locally, follow these steps:
 📧 Reach me at: [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-profile)  
 
 ---
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&lines=Thanks+for+visiting!" alt="Typing SVG">
-</p>
-
----
----
 
 🔗 **Happy Coding! 🚀**
