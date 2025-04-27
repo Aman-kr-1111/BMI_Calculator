@@ -1,4 +1,3 @@
-
 # Body Mass Index (BMI) Calculator
 
 ![BMI Icon](https://cdn-icons-png.flaticon.com/512/2921/2921822.png)
